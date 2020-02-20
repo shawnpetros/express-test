@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "test": "jest --detectOpenHandles"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "jest": "^25.1.0",
+    "supertest": "^4.0.2"
+  }
+}
